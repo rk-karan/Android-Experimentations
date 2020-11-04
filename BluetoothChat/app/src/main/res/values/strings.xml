@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bluetooth Chat</string>
+    <string name="conversation_history">Conversation History</string>
+    <string name="str_menu_search_devices">Search Devices</string>
+    <string name="str_menu_bluetooth_on">Bluetooth On</string>
+    <string name="start_search">Start Search</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send">Send</string>
+    <string name="message">Message</string>
+</resources>
